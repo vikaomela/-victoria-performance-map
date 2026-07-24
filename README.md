@@ -2,6 +2,8 @@
 
 Interactive performance-marketing portfolio for Victoria Omela.
 
+Published automatically through GitHub Pages.
+
 ## Local preview
 
 ```bash
